@@ -19,8 +19,7 @@ We need to figure out exactly what you require and what you believe in. Only the
 
 ### Sprint 4
 ####  Testing and Installation
-The functionalities that have been built thus far have been tested, and the application is currently hosted on Heroku and will operate on any device. Any deployment difficulties will be addressed, and the application will be ready for further development next semester.
-
+The functionalities that have been built so far have been tested, and the application is currently hosted on Heroku and will operate on any device. Any deployment difficulties will be addressed, and the application will be ready for further development next semester.
 
 ## Technological stack
 ‣ Backend language + framework (Java / Spring (or Spring Boot)</br>
