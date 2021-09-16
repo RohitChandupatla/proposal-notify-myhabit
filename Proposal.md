@@ -30,7 +30,7 @@ The functionalities that have been built so far have been tested, and the applic
 
 ## Technological stack
 ####  Backend language + framework 
-‣ Java / Spring or Spring Boot 
+‣ Java Spring Boot 
 #### Backend app host 
 ‣ Heroku
 #### Data host + type 
