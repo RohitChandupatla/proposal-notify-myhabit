@@ -41,7 +41,3 @@ The functionalities that have been built so far have been tested, and the applic
 ‣ Bootstrap
 #### Static analysis tools 
 ‣ Codacy
-
-Draft 
-• The budget is determined by the size of the development team and the average estimated weekly hours per developer.</br>
-• The scope of work should be clearly split into time sprints.</br>
