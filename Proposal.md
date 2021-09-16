@@ -21,6 +21,13 @@ We need to figure out exactly what you require and what you believe in. Only the
 ####  Testing and Installation
 The functionalities that have been built so far have been tested, and the application is currently hosted on Heroku and will operate on any device. Any deployment difficulties will be addressed, and the application will be ready for further development next semester.
 
+## Budget 
+
+| S. No. | Name                                                  |Hourly Pay|   Role            | Hours/ Week |  Estimated Cost/ Week | Email  |
+|------|---------------------------------------------------------|----------------------------------|-------------------------------| ------------- | -------| ---------------- |
+| 1  | [Rohit Reddy Chandupatla](https://github.com/Rohitreddz)  |  $40 |    Front-end Developer   |   9 - 10 |  $360 - $400 |  s542423@nwmissouri.edu  |
+| 2    | [Akanksha Sudhagoni](https://github.com/S542046)        | $40  | Back-end Developer   | 9 - 10 |   $360 - $400 | s542046@nwmissouri.edu  |
+
 ## Technological stack
 ‣ Backend language + framework (Java / Spring (or Spring Boot)</br>
 ‣ Backend app host (Heroku) </br>
