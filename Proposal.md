@@ -13,6 +13,13 @@ We need to figure out exactly what you require and what you believe in. Only the
 ####  Design Presentation
 • Using Front-end page plan (single-page web app (SPA) and Front-end responsive design, a new design concept will be presented based on your sketches (Bootstrap). There will undoubtedly be a common subject, but we will strive to think outside the box and come up with something unique. The best ideas are frequently generated in this manner.
 
+### Sprint 3 
+#### Website Build
+• Your website is built with the basic home page utilizing Backend language + framework (Java / Spring (or Spring Boot) and the database for the Application is generated using everything we've learned. The data can now be dynamically accessed from the database. We'll give it to you after it's finished and go over the details in accordance with the goals we set out to achieve.
+
+### Sprint 4
+####  Testing and Installation
+The functionalities that have been built thus far have been tested, and the application is currently hosted on Heroku and will operate on any device. Any deployment difficulties will be addressed, and the application will be ready for further development next semester.
 
 
 ## Technological stack
