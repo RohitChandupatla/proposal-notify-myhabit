@@ -33,9 +33,9 @@ The functionalities that have been built so far have been tested, and the applic
 #### Backend app host 
 ‣ Heroku
 #### Data host + type 
-‣ Atlas MongoDB
+‣ Postgresql
 #### Front-end page plan 
-‣ single-page web app (SPA) 
+‣ Angular (SPA) 
 #### Front-end responsive design 
 ‣ Bootstrap
 #### Static analysis tools 
