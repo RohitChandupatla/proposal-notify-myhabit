@@ -21,6 +21,26 @@ We need to figure out exactly what you require and what you believe in. Only the
 ####  Testing and Installation
 The functionalities that have been built so far have been tested, and the application is currently hosted on Heroku and will operate on any device. Any deployment difficulties will be addressed, and the application will be ready for further development next semester.
 
+### Sprint 5
+#### Authentication and Authorization. 
+Users will be able to Login by Authenticating using their username and password when the SignUp and Login Pages have been developed and linked with the backend. New users can also sign up for an account, and their information will be uploaded to the cloud database.
+
+### Sprint 6
+#### Geolocations to be added
+The user will be able to add new Geolocations after logging in, and they will be saved in the database. All other users will be able to see the newly added Locations. The ability to remove the Location will be introduced as well. The user will be able to execute all CRUD operations at this stage.
+
+### Sprint 7
+#### Adding features
+By the end of the sprint, we'll have included audio and video features to every habit in the app, as well as a canvas for the need, necessary attribute, and regular expression. 
+
+### Sprint 8
+#### Finalizing and Testing 
+There will be a Like button added, and the Locations will be prioritized based on the number of likes. The ability to refresh a random place on the Home Page every day. The entire software will be put through its paces.
+
+### Sprint 9
+#### Demonstration
+The Client will be shown the whole version of the Application, and any changes or suggestions made by the Client will be applied. The application's final version will be released.
+
 ## Budget 
 
 | S. No. | Name                                                  |Hourly Pay|   Role            | Hours/ Daily |  Estimated Cost/ Weekly | Email  |
