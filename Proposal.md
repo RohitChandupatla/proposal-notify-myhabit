@@ -60,3 +60,10 @@ The Client will be shown the whole version of the Application, and any changes o
 ‣ Bootstrap
 #### Static analysis tools 
 ‣ Codacy
+
+### Screenshots of Applications
+  ![Home](images/home.png) </br>
+  ![Login](images/login.png) </br>
+  ![Signup](images/signup)</br>
+
+
