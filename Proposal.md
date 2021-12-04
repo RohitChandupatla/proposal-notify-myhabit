@@ -66,7 +66,6 @@ The Client will be shown the whole version of the Application, and any changes o
   ![Login](images/login.png) </br>
   ![Signup](images/signup.png)</br>
   
- ### ***To Accept, Sign Below***
 
 
 
