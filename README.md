@@ -1,4 +1,4 @@
-# 6A [Proposal](https://github.com/Rohitreddz/proposal/blob/main/Proposal.md) - [Habit Reminder](https://github.com/NaveenTanuku/HabitReminder) 
+# 6A [Proposal](https://github.com/Rohitreddz/proposal/blob/main/Proposal.md) - [Notify-MyHabit](https://github.com/NaveenTanuku/HabitReminder) 
 ### Here is the [RFP](https://github.com/NaveenTanuku/HabitReminder/blob/main/rfp.md)  of the proposal.
 • Spring Boot is a project built on the top of the Spring framework. It provides a simpler and faster way to set up, configure, and run both simple and web-based applications. In the Spring core framework, you need to configure all the things for yourself.</br>
 
