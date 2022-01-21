@@ -49,22 +49,18 @@ The Client will be shown the whole version of the Application, and any changes o
 | 2    | [Akanksha Sudhagoni](https://github.com/S542046)        | $40  | Back-end Developer   | 8 - 9 |   $1600 - $1800 | s542046@nwmissouri.edu  |
 ## Technological stack
 ####  Backend language + framework 
-‣ Java Spring Boot 
+‣ C#/.NET 
 #### Backend app host 
 ‣ Heroku
 #### Data host + type 
-‣ Postgresql
+‣ MongoDB
 #### Front-end page plan 
-‣ Angular (SPA) 
+‣ CSHTML 
 #### Front-end responsive design 
 ‣ Bootstrap
 #### Static analysis tools 
 ‣ Codacy
 
-### Screenshots of Applications
-  ![Home](images/home.png) </br>
-  ![Login](images/login.png) </br>
-  ![Signup](images/signup.png)</br>
   
 
 
