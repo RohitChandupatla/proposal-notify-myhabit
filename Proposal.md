@@ -63,8 +63,25 @@ The Client will be shown the whole version of the Application, and any changes o
   
 ## Screens
 
-#### Landing Page
+
+ **Landing Screen** </br>
+ 
+ 
 ![Landing Page](/images/landingpage.png)
+
+**Login Screen** 
+
+
+![Login Page](/images/login.png)
+
+**Sign-Up Screen** </br>
+
+
+![Sign-Up Page](/images/signup.png)
+
+
+
+
 
 
 
