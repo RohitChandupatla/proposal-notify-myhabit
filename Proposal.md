@@ -61,6 +61,10 @@ The Client will be shown the whole version of the Application, and any changes o
 ‣ Codacy
 
   
+## Screens
+
+#### Landing Page
+![Landing Page](/images/landingpage.png)
 
 
 
