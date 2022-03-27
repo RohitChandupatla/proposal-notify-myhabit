@@ -5,7 +5,7 @@
 
 ![tools3](/images/tools3.png)
 
-![tools2](/images/tools1.png)
+![tools2](/images/tools1.jpg)
 
 
 
